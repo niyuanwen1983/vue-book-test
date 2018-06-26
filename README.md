@@ -28,3 +28,8 @@ npm install less less-loader axios vuex bootstrap
 - api 代表的是所有的接口
 - base 基础组件
 - components 页面组件
+
+# 发布参考网站
+- https://www.cnblogs.com/hi-shepherd/p/6911098.html
+- https://www.cnblogs.com/vanstrict/p/5677716.html
+- https://blog.csdn.net/lemisi/article/details/79930613
